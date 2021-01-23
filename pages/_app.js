@@ -19,7 +19,7 @@ function MyApp({ Component, pageProps }) {
         <link rel="shortcut icon" href="/favicon.svg" />
       </Head>
       <DefaultSeo {...SEO} />
-      <body className="bg-white dark:bg-blackish">
+      <body className="bg-white dark:bg-black">
         <Component {...pageProps} />
       </body>
     </ThemeProvider>

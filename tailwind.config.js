@@ -4,14 +4,14 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        mono: ['IBM Plex Mono'],
-        sans: ['IBM Plex Mono'],
+        sans: ['Inter'],
+        serif: ['Frank Ruhl Libre'],
       },
       fontSize: {
         tiny: '10px',
       },
       colors: {
-        blackish: '#181818',
+        blackish: '#171717',
       },
     },
   },
