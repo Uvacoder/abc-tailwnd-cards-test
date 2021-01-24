@@ -12,7 +12,7 @@ module.exports = {
         tiny: '10px',
       },
       colors: {
-        blackish: '#171717',
+        blackish: '#18181b',
       },
     },
   },

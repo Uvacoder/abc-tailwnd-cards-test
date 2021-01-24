@@ -36,7 +36,7 @@ a {
 
 @layer components {
   .global-wrapper {
-    @apply h-full dark:bg-black pb-10;
+    @apply h-full dark:bg-blackish pb-10;
   }
   .default-container {
     @apply max-w-2xl m-auto px-4 flex flex-col space-y-4 mb-4;
