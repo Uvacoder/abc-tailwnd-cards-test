@@ -51,6 +51,6 @@ a {
     @apply font-heading text-lg font-bold text-gray-900 dark:text-white;
   }
   .paragraph {
-    @apply text-sm text-gray-700 dark:text-gray-400 tracking-wide;
+    @apply text-sm text-gray-700 dark:text-gray-400;
   }
 }
