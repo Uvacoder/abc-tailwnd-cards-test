@@ -6,6 +6,7 @@ module.exports = {
       fontFamily: {
         sans: ['Inter'],
         serif: ['Frank Ruhl Libre'],
+        heading: ['Chivo'],
       },
       fontSize: {
         tiny: '10px',
