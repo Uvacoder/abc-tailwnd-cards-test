@@ -45,10 +45,10 @@ a {
     @apply max-w-3xl m-auto px-2 space-y-4;
   }
   .h1 {
-    @apply font-heading text-2xl font-black text-gray-900 dark:text-white tracking-wide;
+    @apply font-heading text-2xl font-black text-gray-900 dark:text-white;
   }
   .h2 {
-    @apply font-heading text-lg font-bold text-gray-900 dark:text-white tracking-wide;
+    @apply font-heading text-lg font-bold text-gray-900 dark:text-white;
   }
   .paragraph {
     @apply text-sm text-gray-700 dark:text-gray-400 tracking-wide;
