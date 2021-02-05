@@ -12,7 +12,8 @@ module.exports = {
         tiny: '10px',
       },
       colors: {
-        blackish: '#18181b',
+        blackish: `#171717`,
+        blackish2: `#262626`,
       },
     },
   },
